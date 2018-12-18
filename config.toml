@@ -1,4 +1,4 @@
-baseURL = "https://iinm.github.io"
+baseURL = "https://iinm.github.io/"
 languageCode = "ja"
 title = "/dev/zero"
 theme = "slim"
